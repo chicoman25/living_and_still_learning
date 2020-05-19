@@ -1,0 +1,12 @@
+title = "Living and Still Learning"
+description = ""
+baseURL = "http://livingandstilllearning.com/"
+languageCode = "en-us"
+theme = "hugo-future-imperfect-slim"
+
+[Params]
+  RSSLink = "/index.xml"
+  author = "Ryan Chichirico" # add your company name
+  github = "chicoman25" # add your github profile name
+  twitter = "@chicoman25" # add your twitter profile
+  email = "ryan@chichirico.com"
